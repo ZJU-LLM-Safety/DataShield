@@ -1,0 +1,12 @@
+datasets
+jieba
+jinja2
+nltk
+numpy
+openai
+pandas
+peft
+spacy
+torch
+tqdm
+transformers

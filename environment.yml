@@ -1,0 +1,22 @@
+name: datashield
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - datasets
+    - jieba
+    - jinja2
+    - nltk
+    - numpy
+    - openai
+    - pandas
+    - peft
+    - spacy
+    - torch
+    - tqdm
+    - transformers
